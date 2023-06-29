@@ -1,1 +1,1 @@
-# kaggle-intro-to-programming
+# Kaggle - Introduction to Porgramming
